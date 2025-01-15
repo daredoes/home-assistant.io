@@ -9,6 +9,7 @@ ha_domain: snapcast
 ha_config_flow: true
 ha_platforms:
   - media_player
+  - binary_sensor
 ha_integration_type: integration
 ha_codeowners:
   - '@luar123'
